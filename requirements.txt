@@ -1,0 +1,8 @@
+ipykernel
+ibm-watsonx-ai
+python-dotenv
+rich
+transformers
+torch
+torchvision 
+torchaudio
