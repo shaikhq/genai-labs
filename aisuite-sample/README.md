@@ -21,7 +21,7 @@ uv pip install -r requirements.txt
 ```
 
 5. rename `.env-sample` to `.env` and populate the API key and metadata from the target ai platforms. i.e., necessary values as follows need to be filled in.
-   ```
+
 WATSONX_SERVICE_URL=
 WATSONX_API_KEY=
 WATSONX_PROJECT_ID=
@@ -31,4 +31,3 @@ OPENAI_API_KEY=
 AWS_ACCESS_KEY_ID=
 AWS_SECRET_ACCESS_KEY=
 AWS_REGION=
-```
