@@ -1,3 +1,5 @@
+# Using [`aisuite`](https://github.com/andrewyng/aisuite) library to call LLM APIs of multiple AI platforms. 
+
 1. Install `uv` for Python 3.12
 ```shell
 python3.12 -m pip install uv
