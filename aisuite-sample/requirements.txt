@@ -1,0 +1,5 @@
+aisuite[all]
+ipykernel
+python-dotenv
+ibm_watsonx_ai
+boto3
