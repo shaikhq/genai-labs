@@ -6,3 +6,7 @@ transformers
 torch
 torchvision 
 torchaudio
+pysqlite3-binary
+langchain_community
+beautifulsoup4
+langchain_chroma
