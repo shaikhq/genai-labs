@@ -17,3 +17,6 @@ source .venv/bin/activate
 ```shell
 uv pip install -r requirements.txt
 ```
+
+5. rename `.env-sample` to `.env` and populate the API key and metadata from the target ai platforms. 
+
