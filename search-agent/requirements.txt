@@ -1,0 +1,16 @@
+# Core packages
+requests
+ibm-cloud-sdk-core
+python-dotenv
+ipykernel
+
+# IBM watsonx.ai support
+ibm-watsonx-ai
+
+# LangChain core and IBM integration
+langchain
+langchain-ibm
+langgraph
+
+# Optional: for better notebook rendering and development
+ipython
