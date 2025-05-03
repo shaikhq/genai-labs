@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Watsonx.ai Research Agent
 
 This project contains a Jupyter notebook that demonstrates how to build a personal AI research assistant using IBM Watsonx.ai, LangChain, and LangGraph. The assistant can find and summarize recent research papers from repositories like arXiv based on a user prompt.
@@ -104,5 +103,3 @@ The agent will:
 
 Shaikh Quader
 [LinkedIn](https://www.linkedin.com/in/shaikhquader)
-
-```
