@@ -19,7 +19,7 @@ Make sure you have the following installed on your system:
 
 - Python 3.12 (`/usr/bin/python3.12`)
 - `uv` package manager ([installation instructions](https://github.com/astral-sh/uv#installation))
-- Git (optional, for cloning)
+- Git
 
 ---
 
